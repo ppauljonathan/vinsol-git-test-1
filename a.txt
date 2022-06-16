@@ -1,3 +1,8 @@
 this is a test file for commiting in github
 edited file B
+<<<<<<< HEAD
 commit on master for rebase
+=======
+
+change for rebase feature2
+>>>>>>> 1a62af0 (rebase feature2)
