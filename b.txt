@@ -1,3 +1,4 @@
 this is another file i have edited
 checking git status untracked staged and commited
-change made in feature branch 1
+change made in feature1 branch 1
+change made in feature1 branch 2
