@@ -1,1 +1,2 @@
 this is another file i have edited
+checking git status untracked staged and commited
