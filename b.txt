@@ -7,4 +7,11 @@ changes made in master branch 2
 change made in feature1 branch 1
 change made in feature1 branch 2
 >>>>>>> feature1
+<<<<<<< Updated upstream
 >>> CHANGE BEFORE STASH
+=======
+
+
+>>>Stashed change
+this is a stashed change
+>>>>>>> Stashed changes
