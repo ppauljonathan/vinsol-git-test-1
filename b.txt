@@ -1,2 +1,4 @@
 this is another file i have edited
 checking git status untracked staged and commited
+changes made in master branch
+changes made in master branch 2
