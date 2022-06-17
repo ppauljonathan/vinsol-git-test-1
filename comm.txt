@@ -1,0 +1,20 @@
+Q1)	 initialized a repository [ref photos/init.png]
+Q2)  made changes and added and ignored selectively using git add [ref photos/changes.png]
+Q3)  committed changes [ref photos/changes.png]
+Q4)  [ref photos/changes.png]
+Q5)  used git restore [ref photos/before-stage.png]
+Q6)  used git restore --staged [ref photos/after-staging.png]
+Q7)  used git reset --hard HEAD~1 [ref photos/after-commit.png]
+Q8)  used git status [ref photos/status.png]
+Q9)  used git log [ref photos/log-all.png]
+Q10) [ref photos/log-specific.png]
+Q11) used git branch to make and git branch -d to delete [ref photos/branch.png]
+Q12) made commits on feature1
+Q13) made commits on master
+Q14) merged feature1 into master [ref photos/merge.png]
+Q15) made branch feature2 using git branch and made some commits
+Q16) made commits on master
+Q17) rebased master on feature2 using git rebase [ref photos/rebase.png]
+Q18) git merge puts both master and feature1 branches to gether and preserves their induvidial commit history but has many branches while rebase changes the history and in the end we hav a single long branch
+Q19) used git stash [ref photos/stash.png]
+Q20) created repository on github and pused to it using git push [ref photos/push.png]
